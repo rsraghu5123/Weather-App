@@ -57,10 +57,11 @@ Note: You’ll need an API key from OpenWeatherMap to make requests.
 
 ## 📸 Screenshots
 
+### UI Preview 1
 ![UI Screenshot 1](images/screenshot1.png)
 
+### UI Preview 2
 ![UI Screenshot 2](images/screenshot2.png)
-
 
 
 
