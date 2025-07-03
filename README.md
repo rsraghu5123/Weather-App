@@ -56,5 +56,7 @@ OpenWeatherMap API
 Note: You’ll need an API key from OpenWeatherMap to make requests.
 
 📸 Screenshots
-![Screenshot 2025-07-03 194352](https://github.com/user-attachments/assets/9e024d57-5844-4002-b12b-3f23f1fb1c1f)
-![Screenshot 2025-07-03 194343](https://github.com/user-attachments/assets/441b9d48-35f0-4eb0-bd4f-74d825f9d692)
+
+
+
+
