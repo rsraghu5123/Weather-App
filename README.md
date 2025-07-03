@@ -55,11 +55,11 @@ OpenWeatherMap API
 
 Note: You’ll need an API key from OpenWeatherMap to make requests.
 
-📸 Screenshots
+## 📸 Screenshots
 
-![UI Screenshot 1](images/Screenshot 2025-07-03 194343.png)
+![UI Screenshot 1](images/screenshot1.png)
 
-![UI Screenshot 2](images/Screenshot 2025-07-03 194352.png)
+![UI Screenshot 2](images/screenshot2.png)
 
 
 
