@@ -41,10 +41,10 @@ Weather-App/
 ## 📸 Screenshots
 
 ### UI Preview 1  
-![UI Screenshot 1](screenshot1.png)
+![UI Screenshot 1](Screenshot1.png)
 
 ### UI Preview 2  
-![UI Screenshot 2](screenshot2.png)
+![UI Screenshot 2](Screenshot2.png)
 
 
 ## 🚀 How to Run Locally
